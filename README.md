@@ -1,4 +1,10 @@
 # BandNamesBackend
+
+comando :
 ```
-comando : npm run start:dev
+npm install
+```
+comando :
+```
+ npm run start:dev
 ```
